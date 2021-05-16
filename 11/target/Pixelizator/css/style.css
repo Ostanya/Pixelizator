@@ -1,0 +1,45 @@
+button {
+    display: inline;
+}
+
+body{
+    background-image: url("https://img4.goodfon.ru/wallpaper/nbig/6/64/tekstura-fon-listia-palmy.jpg");
+    margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+    background-size: cover;
+}
+
+div{
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-size: larger;
+    left: 0;
+    position: absolute;
+    text-align: center;
+
+    width: 100%;
+}
+.two{
+    left: 0;
+    line-height: 20px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    width: 100%;
+}
+.one {
+    left: 0;
+    line-height: 20px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+.img {
+    max-height: 400px;
+    max-width: 400px;
+    min-height: 100px;
+    min-width: 100px;
+}
